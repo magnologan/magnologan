@@ -1,5 +1,12 @@
 ### Hi there! 👋
 
+<!--div align="center">
+    <br>
+    <br>
+    <img height="200" width="1000" src="https://raw.githubusercontent.com/magnologan/magnologan/main/krys-amon-eAAR-0iDhic-unsplash.jpg">
+    <br>
+</div-->
+
 ## Contacts
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/magnologan)
@@ -15,12 +22,6 @@
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logoColor=white&logo=kubernetes)](https://github.com/magnologan)
 [![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logoColor=white&logo=amazon-aws)](https://github.com/magnologan)
 
-<!--div align="center">
-    <br>
-    <br>
-    <img src="https://raw.githubusercontent.com/magnologan/magnologan/main/">
-    <br>
-</div-->
 <a href="https://feisky.xyz/about">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=magnologan&show_icons=true" />
 </a>
