@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<div align="center">
+<div>
     <br>
     <br>
     <img src="https://raw.githubusercontent.com/magnologan/magnologan/main/krys-amon-eAAR-0iDhic-unsplash-small.jpg">
