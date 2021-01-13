@@ -1,11 +1,11 @@
 ### Hi there! 👋
 
-<!--div align="center">
+<div align="center">
     <br>
     <br>
-    <img height="200" width="1000" src="https://raw.githubusercontent.com/magnologan/magnologan/main/krys-amon-eAAR-0iDhic-unsplash.jpg">
+    <img src="https://raw.githubusercontent.com/magnologan/magnologan/main/krys-amon-eAAR-0iDhic-unsplash-small.jpg">
     <br>
-</div-->
+</div>
 
 ## Contacts
 
