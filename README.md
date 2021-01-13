@@ -22,6 +22,8 @@
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logoColor=white&logo=kubernetes)](https://github.com/magnologan)
 [![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logoColor=white&logo=amazon-aws)](https://github.com/magnologan)
 
+## Stats
+
 <a href="https://feisky.xyz/about">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=magnologan&show_icons=true" />
 </a>
